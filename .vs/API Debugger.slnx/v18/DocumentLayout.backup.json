@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet Project\\API Debugger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA78BD-7FD2-6E5E-6B8F-C05616D3923D}|API Debugger.csproj|e:\\dotnet project\\api debugger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEA78BD-7FD2-6E5E-6B8F-C05616D3923D}|API Debugger.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA78BD-7FD2-6E5E-6B8F-C05616D3923D}|API Debugger.csproj|e:\\dotnet project\\api debugger\\service\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEA78BD-7FD2-6E5E-6B8F-C05616D3923D}|API Debugger.csproj|solutionrelative:service\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA78BD-7FD2-6E5E-6B8F-C05616D3923D}|API Debugger.csproj|e:\\dotnet project\\api debugger\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DEA78BD-7FD2-6E5E-6B8F-C05616D3923D}|API Debugger.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA78BD-7FD2-6E5E-6B8F-C05616D3923D}|API Debugger.csproj|e:\\dotnet project\\api debugger\\models\\debugresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEA78BD-7FD2-6E5E-6B8F-C05616D3923D}|API Debugger.csproj|solutionrelative:models\\debugresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA78BD-7FD2-6E5E-6B8F-C05616D3923D}|API Debugger.csproj|e:\\dotnet project\\api debugger\\models\\debugrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEA78BD-7FD2-6E5E-6B8F-C05616D3923D}|API Debugger.csproj|solutionrelative:models\\debugrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA78BD-7FD2-6E5E-6B8F-C05616D3923D}|API Debugger.csproj|e:\\dotnet project\\api debugger\\controller\\debugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEA78BD-7FD2-6E5E-6B8F-C05616D3923D}|API Debugger.csproj|solutionrelative:controller\\debugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA78BD-7FD2-6E5E-6B8F-C05616D3923D}|API Debugger.csproj|e:\\dotnet project\\api debugger\\api debugger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0DEA78BD-7FD2-6E5E-6B8F-C05616D3923D}|API Debugger.csproj|solutionrelative:api debugger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\DotNet Project\\API Debugger\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\DotNet Project\\API Debugger\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-27T19:20:32.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AIService.cs",
+              "DocumentMoniker": "E:\\DotNet Project\\API Debugger\\Service\\AIService.cs",
+              "RelativeDocumentMoniker": "Service\\AIService.cs",
+              "ToolTip": "E:\\DotNet Project\\API Debugger\\Service\\AIService.cs",
+              "RelativeToolTip": "Service\\AIService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wCAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T19:08:13.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DebugResponse.cs",
+              "DocumentMoniker": "E:\\DotNet Project\\API Debugger\\Models\\DebugResponse.cs",
+              "RelativeDocumentMoniker": "Models\\DebugResponse.cs",
+              "ToolTip": "E:\\DotNet Project\\API Debugger\\Models\\DebugResponse.cs",
+              "RelativeToolTip": "Models\\DebugResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T19:07:49.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DebugRequest.cs",
+              "DocumentMoniker": "E:\\DotNet Project\\API Debugger\\Models\\DebugRequest.cs",
+              "RelativeDocumentMoniker": "Models\\DebugRequest.cs",
+              "ToolTip": "E:\\DotNet Project\\API Debugger\\Models\\DebugRequest.cs",
+              "RelativeToolTip": "Models\\DebugRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T19:07:24.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DebugController.cs",
+              "DocumentMoniker": "E:\\DotNet Project\\API Debugger\\Controller\\DebugController.cs",
+              "RelativeDocumentMoniker": "Controller\\DebugController.cs",
+              "ToolTip": "E:\\DotNet Project\\API Debugger\\Controller\\DebugController.cs",
+              "RelativeToolTip": "Controller\\DebugController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T19:05:38.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "API Debugger.csproj",
+              "DocumentMoniker": "E:\\DotNet Project\\API Debugger\\API Debugger.csproj",
+              "RelativeDocumentMoniker": "API Debugger.csproj",
+              "ToolTip": "E:\\DotNet Project\\API Debugger\\API Debugger.csproj",
+              "RelativeToolTip": "API Debugger.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-27T18:45:57.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet Project\\API Debugger\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\DotNet Project\\API Debugger\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T18:43:24.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

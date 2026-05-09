@@ -1,0 +1,6 @@
+@API_Debugger_HostAddress = http://localhost:5262
+
+GET {{API_Debugger_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
