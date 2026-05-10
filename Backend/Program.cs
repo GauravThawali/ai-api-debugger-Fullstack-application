@@ -14,12 +14,17 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddHttpClient<AIService>();
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowReact",
+    options.AddPolicy("AllowFrontend",
         policy =>
         {
-            policy.AllowAnyOrigin()
-                  .AllowAnyHeader()
-                  .AllowAnyMethod();
+            policy
+                .WithOrigins(
+                    "http://localhost:3000",
+                    "http://localhost:5173",
+                    "https://YOUR-FRONTEND.vercel.app"
+                )
+                .AllowAnyHeader()
+                .AllowAnyMethod();
         });
 });
 var app = builder.Build();
@@ -30,7 +35,7 @@ var app = builder.Build();
  //   app.UseSwagger();
  //   app.UseSwaggerUI();
 //}
-
+app.UseCors("AllowFrontend");
 app.UseSwagger();
 app.UseSwaggerUI();
 

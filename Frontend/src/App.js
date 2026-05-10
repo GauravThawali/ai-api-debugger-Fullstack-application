@@ -18,7 +18,7 @@ export default function App() {
 
     try {
       const result = await fetch(
-        "https://ai-api-debugger-fullstack-application.onrender.com",
+        "https://ai-api-debugger-fullstack-application.onrender.com/api/debug/analyze",
         {
           method: "POST",
           headers: {
