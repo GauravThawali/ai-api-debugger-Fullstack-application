@@ -21,7 +21,7 @@ builder.Services.AddCors(options =>
                 .WithOrigins(
                     "http://localhost:3000",
                     "http://localhost:5173",
-                    "https://YOUR-FRONTEND.vercel.app"
+                    "https://ai-api-debugger-fullstack-application.onrender.com"
                 )
                 .AllowAnyHeader()
                 .AllowAnyMethod();
