@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+🚀 AI API Debugger
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An AI-powered full-stack debugging platform built using .NET 10, React, and OpenRouter AI that analyzes API/runtime errors and provides intelligent root cause analysis, fix suggestions, and severity insights.
 
-## Available Scripts
+🌐 Live Demo
+Frontend
 
-In the project directory, you can run:
+Add your Vercel URL here
 
-### `npm start`
+Backend Swagger
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Add your Render Swagger URL here
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+📌 Features
 
-### `npm test`
+✅ AI-powered error analysis
+✅ Root cause identification
+✅ Fix suggestions
+✅ Severity analysis
+✅ Modern React frontend
+✅ .NET 10 Web API backend
+✅ Swagger API testing
+✅ Cloud deployment using Render & Vercel
+✅ Environment variable security
+✅ CORS configuration for frontend-backend communication
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🛠 Tech Stack
+Frontend
+React
+CSS
+Fetch API
+Backend
+.NET 10 Web API
+Swagger UI
+REST APIs
+AI Integration
+OpenRouter AI API
+Cloud & Deployment
+Render (Backend Hosting)
+Vercel (Frontend Hosting)
+GitHub
+🧠 How It Works
+User enters API/runtime error.
+Frontend sends request to .NET backend.
+Backend forwards request to OpenRouter AI.
+AI analyzes the error.
+Structured debugging insights are returned.
+Frontend displays:
+Explanation
+Root Cause
+Fix Suggestion
+Severity
+📷 Screenshots
+Home Page
 
-### `npm run build`
+Add screenshot here
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+AI Analysis Result
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Add screenshot here
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Swagger Testing
 
-### `npm run eject`
+Add screenshot here
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+⚙️ Project Structure
+AI-API-Debugger/
+│
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+├── backend/
+│   ├── Controllers/
+│   ├── Services/
+│   ├── Models/
+│   ├── Program.cs
+│   └── appsettings.json
+│
+└── README.md
