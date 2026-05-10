@@ -19,7 +19,7 @@ builder.Services.AddCors(options =>
         {
             policy
                 .WithOrigins(
-                    "http://localhost:3000",
+                    "https://ai-api-debugger-fullstack-d0baw7001-gaurav-thawali-s-projects.vercel.app",
                     "http://localhost:5173",
                     "https://ai-api-debugger-fullstack-application.onrender.com"
                 )
